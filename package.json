@@ -16,7 +16,6 @@
   "dependencies": {
     "colors": "^1.4.0",
     "commander": "^10.0.0",
-    "nanoid": "^3.0.0",
-    "yargs": "^17.7.1"
+    "nanoid": "^3.0.0"
   }
 }
